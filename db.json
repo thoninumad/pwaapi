@@ -1,0 +1,24 @@
+{
+  "products" : [
+    {"id":1,"name":"Crane, sandhill","category":"Indigo"},
+    {"id":2,"name":"Hottentot teal","category":"Purple"},
+    {"id":3,"name":"Duiker, gray","category":"Goldenrod"},
+    {"id":4,"name":"Puku","category":"Fuscia"},
+    {"id":5,"name":"Wallaby, agile","category":"Red"},
+    {"id":6,"name":"Desert tortoise","category":"Pink"},
+    {"id":7,"name":"Bleeding heart monkey","category":"Red"},
+    {"id":8,"name":"Blue crane","category":"Green"},
+    {"id":9,"name":"Raccoon dog","category":"Mauv"},
+    {"id":10,"name":"Lappet-faced vulture","category":"Pink"},
+    {"id":11,"name":"Boa, emerald green tree","category":"Red"},
+    {"id":12,"name":"Bobcat","category":"Pink"},
+    {"id":13,"name":"Cobra, egyptian","category":"Puce"},
+    {"id":14,"name":"Jackal, silver-backed","category":"Mauv"},
+    {"id":15,"name":"Eastern grey kangaroo","category":"Purple"},
+    {"id":16,"name":"Eastern dwarf mongoose","category":"Goldenrod"},
+    {"id":17,"name":"Long-necked turtle","category":"Goldenrod"},
+    {"id":18,"name":"Dromedary camel","category":"Maroon"},
+    {"id":19,"name":"Whale, long-finned pilot","category":"Crimson"},
+    {"id":20,"name":"American beaver","category":"Maroon"}
+  ]
+}
